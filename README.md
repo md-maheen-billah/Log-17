@@ -1,5 +1,5 @@
 # Log 17 (Duration: 6 Months)
-Today's lesson focused arrays, push-pop, shift-unshift, includes, indexOf, isArray, join, concat, slice and splice. Some practice tasks were assigned.
+Today's lesson focused on while loop, for loop, break, continue, and do-while loop. Some practice tasks were assigned.
 
 ---
 
@@ -112,3 +112,17 @@ Practice Task-3:
 ![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/f1c275ab-fa03-4893-9198-5982e5da3479)
 
 ---
+
+# Continue
+
+Practice Task-1:
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/46cf0803-9aa8-446f-9987-3e62722a084e)
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/ad5eb4f6-397f-40f4-92e0-0c3fc4afb4ea)
+
+Practice Task-2:
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/232787d6-3047-42b2-a56b-af6cdee8a839)
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/7482fc85-fcc2-4960-a101-b84e8d73dce0)
