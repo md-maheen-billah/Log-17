@@ -25,6 +25,25 @@ Practice Task-2:
 
 Practice Task-3:
 
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/9f4a4407-e4a4-4b2e-ab66-274311811de5)
 
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/18a372fa-997d-4b69-9b2f-0906c7112882)
+---
 
+Practice Task-4:
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/21248ce9-cfa1-4c63-868e-ac14b29a7ef0)
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/9f6f4be1-35e9-431b-be89-5165bf80a52e)
+---
+
+Practice Task-5:
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/1ee3c9eb-f6fe-4e67-913e-1e77c82ab9a2)
+
+![image](https://github.com/md-maheen-billah/Log-17/assets/140327805/20579a03-2009-411a-bd39-689a2035f0a5)
+
+---
+
+# While
 
